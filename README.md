@@ -1,2 +1,2 @@
-# nlp-customer-review-classification
-utilizing women's clothing customer review dataset, determine if, given a customer's review, we can predict if a customer would recommend the product or not using a Recurrent Neural Network Text Classification Model
+# nlp customer review classification
+utilizing the women's clothing customer review dataset found on Kaggle (https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews), determine if, given a customer's review, we can predict if a customer would recommend the product or not. We are specifically interested in how well we can predict if a customer would not recommend a specific product (Recommended IND = 0), and will attempt to create a model with this aspect in mind.
